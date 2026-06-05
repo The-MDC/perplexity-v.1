@@ -71,7 +71,7 @@
     "@vercel/functions": "^2.2.12",
     "@vercel/speed-insights": "^1.2.0",
     "ai": "5.0.22",
-    "axios": "^1.10.0",
+    "axios": "^1.16.0",
     "better-auth": "https://pkg.pr.new/better-auth/better-auth@8e825ad",
     "canvas-confetti": "^1.9.3",
     "class-variance-authority": "^0.7.1",
